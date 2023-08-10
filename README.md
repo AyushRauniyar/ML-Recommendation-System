@@ -16,3 +16,18 @@ Recommendation systems have become integral to modern digital experiences, aidin
    https://nijianmo.github.io/amazon/index.html
 
 - **Model Comparison:** We compare the performance of different collaborative filtering models, highlighting their strengths and weaknesses in terms of recommendation quality.
+
+## Getting Started
+
+To start exploring this project, follow these steps:
+
+1. **Clone the Repository:** Clone this repository to your local machine using the following command:
+git clone https://github.com/AyushRauniyar/ML-Recommendation-System.git
+
+2. **Install Dependencies:** Ensure you have the required Python libraries installed. You can use `pip` to install the necessary packages listed in the `requirements.txt` file.
+
+3. **Run the Recommendation System:** Explore the provided Jupyter notebooks or Python scripts that demonstrate the implementation of content-based and collaborative filtering models. You'll find examples of user-item and item-item recommendations, as well as the application of SVD, NMF, and KNN.
+
+4. **Evaluate Model Performance:** Dive into the model comparison section to see how different collaborative filtering techniques perform. Understand the strengths and limitations of each approach.
+
+**Thank you for exploring**
