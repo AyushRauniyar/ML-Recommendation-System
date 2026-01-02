@@ -1,6 +1,6 @@
 # ML Recommendation System
 
-Welcome to the ML Recommendation System project! This repository showcases the implementation of content-based and collaborative filtering models, focusing on the recommendation of items. The project explores various collaborative filtering algorithms, such as SVD, NMF, and KNN, and builds recommendation systems using Python libraries. Additionally, it offers a comparative analysis of these models on a subset of the Amazon dataset.
+Welcome to the ML Recommendation System project! This repository showcases the implementation of content-based and collaborative filtering models, focusing on the recommendation of items for an engine. The project explores various collaborative filtering algorithms, such as SVD, NMF, and KNN, and builds recommendation systems using Python libraries. Additionally, it offers a comparative analysis of these models on a subset of the Amazon dataset.
 
 ## Project Overview
 
@@ -17,7 +17,6 @@ Recommendation systems have become integral to modern digital experiences, aidin
   https://nijianmo.github.io/amazon/index.html
   ```
    
-
 - **Model Comparison:** We compare the performance of different collaborative filtering models, highlighting their strengths and weaknesses in terms of recommendation quality.
 
 ## Getting Started
